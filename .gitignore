@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+venv/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled files
+*.o
+*.so
+*.dll
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other
+*.json
+*.csv
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+*.tfplan
