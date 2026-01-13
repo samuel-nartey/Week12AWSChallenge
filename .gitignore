@@ -41,3 +41,7 @@ Thumbs.db
 .terraform/
 *.tfvars
 *.tfplan
+
+# Lambda artifacts
+lambda_function.zip
+lambda/*.zip
